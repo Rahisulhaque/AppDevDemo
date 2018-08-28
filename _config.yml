@@ -11,4 +11,4 @@ github_username: ani6gup
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: Minima
+theme: jekyll-theme-minimal
